@@ -1,0 +1,5 @@
+solana 
+spl-token 
+anchorpy 
+python-dotenv 
+requests 
